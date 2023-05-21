@@ -1,23 +1,39 @@
-.MainH1 {
-  font-family: cursive;
-  text-align: center;
-  font-size: 400px;
-  background: url("images/SecGradient.jpg") no-repeat;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation-name: gradient;
-  animation-duration: 3s;
-  animation-iteration-count: infinite;
-  font-family: "Rowdies", cursive;
+@media (min-width: 767px) {
+  .MainH1 {
+    font-family: cursive;
+    text-align: center;
+    font-size: 400px;
+    background: url("images/SecGradient.jpg") no-repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation-name: gradient;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    font-family: "Rowdies", cursive;
+  }
+  @keyframes gradient {
+    0% {
+      background-position: 0 0;
+    }
+    50% {
+      background-position: 100% 0;
+    }
+    100% {
+      background-position: 0 0;
+    }
+  }
 }
-@keyframes gradient {
-  0% {
-    background-position: 0 0;
-  }
-  50% {
-    background-position: 100% 0;
-  }
-  100% {
-    background-position: 0 0;
+@media (max-width: 767px) {
+  .MainH1 {
+    font-family: cursive;
+    text-align: center;
+    font-size: 150px;
+    background: url("images/SecGradient.jpg") no-repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation-name: gradient;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    font-family: "Rowdies", cursive;
   }
 }
