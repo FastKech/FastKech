@@ -196,7 +196,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/glossy.webp");
+    background-image: url("images/glossy.png");
     border: 5px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -234,7 +234,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/ernet.webp");
+    background-image: url("images/ernet.png");
     border: 5px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -266,7 +266,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/iber.webp");
+    background-image: url("images/iber.png");
     border: 5px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -299,7 +299,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/Saamix.webp");
+    background-image: url("images/Saamix.png");
     border: 5px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -332,7 +332,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/SaamixOne.webp");
+    background-image: url("images/SaamixOne.png");
     border: 5px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -365,7 +365,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/gelwc.webp");
+    background-image: url("images/gelwc.png");
     border: 5px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -398,7 +398,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/IberOne.webp");
+    background-image: url("images/IberOne.png");
     border: 5px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -431,7 +431,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/IberTwo.webp");
+    background-image: url("images/IberTwo.png");
     border: 5px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -464,7 +464,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/SaamixTwo.webp");
+    background-image: url("images/SaamixTwo.png");
     border: 5px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -497,7 +497,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/IberTree.webp");
+    background-image: url("images/IberTree.png");
     border: 5px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -530,7 +530,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/Tytan.webp");
+    background-image: url("images/Tytan.png");
     border: 5px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -563,7 +563,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/SaamixTree.webp");
+    background-image: url("images/SaamixTree.png");
     border: 5px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -596,7 +596,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/SaamixFour.webp");
+    background-image: url("images/SaamixFour.png");
     border: 5px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -629,7 +629,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/IberFour.webp");
+    background-image: url("images/IberFour.png");
     border: 5px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -694,7 +694,7 @@ body._touch .menu__list > li._active .menu__arrow {
     height: 100%;
     line-height: 1;
     font-size: 16px;
-    background-image: url(images/images.webp);
+    background-image: url(images/images.png);
     background-color: #0e5406;
     background-size: cover;
     color: #000;
@@ -763,7 +763,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .SaamixDok {
     display: block;
     background-size: cover;
-    background-image: url("images/Saamix.webp");
+    background-image: url("images/Saamix.png");
     transition: all 1.2s ease 0.5s;
     height: 600px;
     width: 600px;
@@ -774,7 +774,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .GlossyDok {
     display: block;
     background-size: cover;
-    background-image: url("images/glossy.webp");
+    background-image: url("images/glossy.png");
     transition: all 1.2s ease 0.5s;
     height: 600px;
     width: 600px;
@@ -785,7 +785,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .ErnetDok {
     display: block;
     background-size: cover;
-    background-image: url("images/ernet.webp");
+    background-image: url("images/ernet.png");
     transition: all 1.2s ease 0.5s;
     height: 600px;
     width: 600px;
@@ -796,7 +796,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .IberDok {
     display: block;
     background-size: cover;
-    background-image: url("images/iber.webp");
+    background-image: url("images/iber.png");
     transition: all 1.2s ease 0.5s;
     height: 600px;
     width: 600px;
@@ -807,7 +807,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .GelWcDok {
     display: block;
     background-size: cover;
-    background-image: url("images/gelwc.webp");
+    background-image: url("images/gelwc.png");
     transition: all 1.2s ease 0.5s;
     height: 600px;
     width: 600px;
@@ -818,7 +818,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .SaamixOneDok {
     display: block;
     background-size: cover;
-    background-image: url("images/SaamixOne.webp");
+    background-image: url("images/SaamixOne.png");
     transition: all 1.2s ease 0.5s;
     height: 600px;
     width: 600px;
@@ -829,7 +829,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .IberOneDok {
     display: block;
     background-size: cover;
-    background-image: url("images/IberOne.webp");
+    background-image: url("images/IberOne.png");
     transition: all 1.2s ease 0.5s;
     height: 600px;
     width: 600px;
@@ -840,7 +840,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .IberTwoDok {
     display: block;
     background-size: cover;
-    background-image: url("images/IberTwo.webp");
+    background-image: url("images/IberTwo.png");
     transition: all 1.2s ease 0.5s;
     height: 600px;
     width: 600px;
@@ -851,7 +851,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .SaamixTwoDok {
     display: block;
     background-size: cover;
-    background-image: url("images/SaamixTwo.webp");
+    background-image: url("images/SaamixTwo.png");
     transition: all 1.2s ease 0.5s;
     height: 600px;
     width: 600px;
@@ -862,7 +862,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .SaamixTreeDok {
     display: block;
     background-size: cover;
-    background-image: url("images/SaamixTree.webp");
+    background-image: url("images/SaamixTree.png");
     transition: all 1.2s ease 0.5s;
     height: 600px;
     width: 600px;
@@ -873,7 +873,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .SaamixFourDok {
     display: block;
     background-size: cover;
-    background-image: url("images/SaamixFour.webp");
+    background-image: url("images/SaamixFour.png");
     transition: all 1.2s ease 0.5s;
     height: 600px;
     width: 600px;
@@ -884,7 +884,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .IberTreeDok {
     display: block;
     background-size: cover;
-    background-image: url("images/IberTree.webp");
+    background-image: url("images/IberTree.png");
     transition: all 1.2s ease 0.5s;
     height: 600px;
     width: 600px;
@@ -895,7 +895,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .IberFourDok {
     display: block;
     background-size: cover;
-    background-image: url("images/IberFour.webp");
+    background-image: url("images/IberFour.png");
     transition: all 1.2s ease 0.5s;
     height: 600px;
     width: 600px;
@@ -906,7 +906,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .TytanDok {
     display: block;
     background-size: cover;
-    background-image: url("images/Tytan.webp");
+    background-image: url("images/Tytan.png");
     transition: all 1.2s ease 0.5s;
     height: 600px;
     width: 600px;
@@ -1047,7 +1047,7 @@ body._touch .menu__list > li._active .menu__arrow {
     height: 100%;
     line-height: 1;
     font-size: 16px;
-    background-image: url(images/images.webp);
+    background-image: url("images/images.png");
     background-color: rgb(118, 166, 51);
     background-size: cover;
     color: #000;
@@ -1068,7 +1068,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/glossy.webp");
+    background-image: url("images/glossy.png");
     border: 3px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -1098,7 +1098,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/ernet.webp");
+    background-image: url("images/ernet.png");
     border: 3px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -1130,7 +1130,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/iber.webp");
+    background-image: url("images/iber.png");
     border: 3px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -1160,7 +1160,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/Saamix.webp");
+    background-image: url("images/Saamix.png");
     border: 3px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -1193,7 +1193,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/SaamixOne.webp");
+    background-image: url("images/SaamixOne.png");
     border: 3px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -1223,7 +1223,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/gelwc.webp");
+    background-image: url("images/gelwc.png");
     border: 3px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -1255,7 +1255,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/IberOne.webp");
+    background-image: url("images/IberOne.png");
     border: 3px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -1285,7 +1285,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/IberTwo.webp");
+    background-image: url("images/IberTwo.png");
     border: 3px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -1317,7 +1317,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/SaamixTwo.webp");
+    background-image: url("images/SaamixTwo.png");
     border: 3px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -1347,7 +1347,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/IberTree.webp");
+    background-image: url("images/IberTree.png");
     border: 3px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -1412,7 +1412,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/Tytan.webp");
+    background-image: url("images/Tytan.png");
     border: 3px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -1442,7 +1442,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/SaamixTree.webp");
+    background-image: url("images/SaamixTree.png");
     border: 3px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -1474,7 +1474,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/SaamixFour.webp");
+    background-image: url("images/SaamixFour.png");
     border: 3px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -1504,7 +1504,7 @@ body._touch .menu__list > li._active .menu__arrow {
     display: block;
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.5);
-    background-image: url("images/IberFour.webp");
+    background-image: url("images/IberFour.png");
     border: 3px dotted #a3645d;
     border-radius: 10px;
     transition: all 1.2s ease 0.5s;
@@ -1534,7 +1534,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .page__section_1 {
     border-top-left-radius: 30px;
     border-top-right-radius: 30px;
-    background-image: url(images/win3uborka_pomescheniy-842x410.webp);
+    background-image: url("images/win3uborka_pomescheniy-842x410.png");
     background-size: cover;
     height: 700px;
   }
@@ -1667,7 +1667,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .SaamixDok {
     display: inline-block;
     background-size: cover;
-    background-image: url("images/Saamix.webp");
+    background-image: url("images/Saamix.png");
     transition: all 1.2s ease 0.5s;
     height: 400px;
     width: 400px;
@@ -1677,7 +1677,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .GlossyDok {
     display: inline-block;
     background-size: cover;
-    background-image: url("images/glossy.webp");
+    background-image: url("images/glossy.png");
     transition: all 1.2s ease 0.5s;
     height: 400px;
     width: 400px;
@@ -1688,7 +1688,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .ErnetDok {
     display: inline-block;
     background-size: cover;
-    background-image: url("images/ernet.webp");
+    background-image: url("images/ernet.png");
     transition: all 1.2s ease 0.5s;
     height: 400px;
     width: 400px;
@@ -1698,7 +1698,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .IberDok {
     display: inline-block;
     background-size: cover;
-    background-image: url("images/iber.webp");
+    background-image: url("images/iber.png");
     transition: all 1.2s ease 0.5s;
     height: 400px;
     width: 400px;
@@ -1708,7 +1708,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .GelWcDok {
     display: inline-block;
     background-size: cover;
-    background-image: url("images/gelwc.webp");
+    background-image: url("images/gelwc.png");
     transition: all 1.2s ease 0.5s;
     height: 400px;
     width: 400px;
@@ -1718,7 +1718,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .SaamixOneDok {
     display: inline-block;
     background-size: cover;
-    background-image: url("images/SaamixOne.webp");
+    background-image: url("images/SaamixOne.png");
     transition: all 1.2s ease 0.5s;
     height: 400px;
     width: 400px;
@@ -1728,7 +1728,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .IberOneDok {
     display: inline-block;
     background-size: cover;
-    background-image: url("images/IberOne.webp");
+    background-image: url("images/IberOne.png");
     transition: all 1.2s ease 0.5s;
     height: 400px;
     width: 400px;
@@ -1738,7 +1738,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .IberTwoDok {
     display: inline-block;
     background-size: cover;
-    background-image: url("images/IberTwo.webp");
+    background-image: url("images/IberTwo.png");
     transition: all 1.2s ease 0.5s;
     height: 400px;
     width: 400px;
@@ -1748,7 +1748,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .SaamixTwoDok {
     display: inline-block;
     background-size: cover;
-    background-image: url("images/SaamixTwo.webp");
+    background-image: url("images/SaamixTwo.png");
     transition: all 1.2s ease 0.5s;
     height: 400px;
     width: 400px;
@@ -1758,7 +1758,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .IberTreeDok {
     display: inline-block;
     background-size: cover;
-    background-image: url("images/IberTree.webp");
+    background-image: url("images/IberTree.png");
     transition: all 1.2s ease 0.5s;
     height: 400px;
     width: 400px;
@@ -1768,7 +1768,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .SaamixTreeDok {
     display: inline-block;
     background-size: cover;
-    background-image: url("images/SaamixTree.webp");
+    background-image: url("images/SaamixTree.png");
     transition: all 1.2s ease 0.5s;
     height: 400px;
     width: 400px;
@@ -1778,7 +1778,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .SaamixFourDok {
     display: inline-block;
     background-size: cover;
-    background-image: url("images/SaamixFour.webp");
+    background-image: url("images/SaamixFour.png");
     transition: all 1.2s ease 0.5s;
     height: 400px;
     width: 400px;
@@ -1788,7 +1788,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .IberFourDok {
     display: inline-block;
     background-size: cover;
-    background-image: url("images/IberFour.webp");
+    background-image: url("images/IberFour.png");
     transition: all 1.2s ease 0.5s;
     height: 400px;
     width: 400px;
@@ -1798,7 +1798,7 @@ body._touch .menu__list > li._active .menu__arrow {
   .TytanDok {
     display: inline-block;
     background-size: cover;
-    background-image: url("images/Tytan.webp");
+    background-image: url("images/Tytan.png");
     transition: all 1.2s ease 0.5s;
     height: 400px;
     width: 400px;
@@ -2077,15 +2077,15 @@ a._neGlossyDa {
   }
 }
 .carousel ._a {
-  background-image: url(./images/download.webp);
+  background-image: url(./images/download.png);
   background-size: cover;
 }
 .carousel ._d {
-  background-image: url(./images/b925515-305768936-404236688556082-1827631104479884477-n.webp);
+  background-image: url(./images/b925515-305768936-404236688556082-1827631104479884477-n.png);
   background-size: cover;
 }
 .carousel ._e {
-  background-image: url(./images/ffe9996770b0.webp);
+  background-image: url(./images/ffe9996770b0.png);
   background-size: cover;
 }
 .r {
